@@ -1,0 +1,19 @@
+{
+  "name": "madumbo",
+  "version": "1.0.0",
+  "description": "Interview challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hdelaby/madumbo.git"
+  },
+  "author": "Hugo Delaby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hdelaby/madumbo/issues"
+  },
+  "homepage": "https://github.com/hdelaby/madumbo#readme"
+}
