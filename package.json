@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/hdelaby/madumbo#readme",
   "dependencies": {
+    "css-tree": "^1.0.0-alpha.28",
+    "cssom": "^0.3.2",
     "jsdom": "^11.7.0",
     "node-fetch": "^2.1.2",
     "xml2js": "^0.4.19"
