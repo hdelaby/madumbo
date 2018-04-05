@@ -17,10 +17,13 @@
   },
   "homepage": "https://github.com/hdelaby/madumbo#readme",
   "dependencies": {
-    "css-tree": "^1.0.0-alpha.28",
+    "@types/cheerio": "^0.22.7",
+    "@types/node-fetch": "^1.6.8",
+    "awesome-typescript-loader": "^4.0.1",
+    "cheerio": "^1.0.0-rc.2",
     "cssom": "^0.3.2",
-    "jsdom": "^11.7.0",
     "node-fetch": "^2.1.2",
-    "xml2js": "^0.4.19"
+    "source-map-loader": "^0.2.3",
+    "typescript": "^2.8.1"
   }
 }
