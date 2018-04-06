@@ -4,7 +4,9 @@
   "description": "Interview challenge",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node_modules/typescript/bin/tsc --lib ES2015",
+    "start": "node dist/index.js",
+    "clean": "rm -r dist"
   },
   "repository": {
     "type": "git",
